@@ -1,5 +1,5 @@
 # Election_Analysis
-Using Python to analyze Election 
+Using Python Code to analyze Election Results 
 
 # Overview of Election Audit: 
 The purpose of this project was to complete an election audit for a local congressional election. The follow tasks included:
