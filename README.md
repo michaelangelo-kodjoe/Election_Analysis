@@ -2,7 +2,7 @@
 Using Python Code to analyze Election Results 
 
 # Overview of Election Audit: 
-The purpose of this project was to complete an election audit for a local congressional election. The follow tasks included:
+The purpose of this project was to complete an election audit for a local congressional election. The following tasks included:
 * Calculate the total number of votes cast.
 * Get a complete list of candidates who received votes.
 * Calculate the total number of votes each candidate received.
